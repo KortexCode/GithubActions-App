@@ -1,0 +1,12 @@
+{
+  "name": "githubactions-app",
+  "version": "1.0.0",
+  "description": "Este proyecto de aprendizaje consta de implementaciones con github actions para crear un flujo de trabajo el cual ejecute varias tareas dependiendo de los eventos ocurridos que sean de interés",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
