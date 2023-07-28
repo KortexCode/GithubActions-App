@@ -1,0 +1,25 @@
+
+main {
+    background-image: linear-gradient(to right top, #f16997, #ff766d, #ff9939, #ecc300, #a8eb12);
+}
+
+h1 {
+    color: red;
+}
+.text {
+    color:blueviolet;
+}
+.container {
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+}
+.container__1 {
+    height: 50%;
+    background-color: rgb(196, 198, 200);
+}
+.container__2 {
+    height: 50%;
+    background-color: rgb(173, 202, 227);
+    box-shadow: 0px 1px 11px 4px rgb(98, 150, 157);
+}
